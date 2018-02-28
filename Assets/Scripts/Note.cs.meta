@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e9f84dd25350c15479c412ea695d98eb
+timeCreated: 1517900459
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftNote: {fileID: 1278477985972498, guid: af55e9bbdd13a3a478739c07eb5ea0b4, type: 2}
+  - upNote: {fileID: 1628392003355964, guid: 441d27e508c945648a57519822f98451, type: 2}
+  - downNote: {fileID: 1352081836965174, guid: fa45ac7d4f6a9d74f856968b38b34744, type: 2}
+  - rightNote: {fileID: 1448743096805440, guid: 439db9413af09d74db4caf46f34ae204,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
